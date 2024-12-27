@@ -1,5 +1,8 @@
 {
   "item.blight.ruby": "Ruby",
+  "block.blight.hollowed_log": "Hollowed Log",
+  "block.blight.hollowed_sapling": "Hollowed Sapling",
+  "block.blight.hollowed_leaves": "Hollowed Leaves",
 
-  "itemgroup.ruby": "Ruby blight group"
+  "itemgroup.blight": "Blight"
 }

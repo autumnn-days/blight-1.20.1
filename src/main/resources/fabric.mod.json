@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "blight",
 	"version": "${version}",
-	"name": "Blight",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Tutorial Mod",
+	"description": "This is a Tutorial Mod made by Kaupenjoe :)",
 	"authors": [
-		"StatDefender"
+		"Kaupenjoe!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -21,7 +21,6 @@
 		"client": [
 			"net.statdefender.blight.BlightClient"
 		],
-
 		"fabric-datagen": [
 			"net.statdefender.blight.BlightDataGenerator"
 		]
@@ -30,7 +29,7 @@
 		"blight.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.16.9",
+		"fabricloader": ">=0.14.21",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"

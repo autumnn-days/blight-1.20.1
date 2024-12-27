@@ -8,14 +8,18 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.statdefender.blight.Blight;
+import net.statdefender.blight.block.ModBlocks;
 
 public class ModItemGroups {
 
     public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
-            new Identifier(Blight.MOD_ID, "ruby"),
-            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
+            new Identifier(Blight.MOD_ID, "blight"),
+            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.blight"))
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.RUBY);
+                        entries.add(ModBlocks.HOLLOWED_LOG);
+                        entries.add(ModBlocks.HOLLOWED_SAPLING);
+                        entries.add(ModBlocks.HOLLOWED_LEAVES);
 
                     }).build());
 
