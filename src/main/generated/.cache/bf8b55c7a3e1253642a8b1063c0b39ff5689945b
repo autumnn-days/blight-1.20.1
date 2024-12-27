@@ -1,0 +1,8 @@
+// 1.20.1	2024-12-27T00:31:57.8751967	Tutorial Mod/Model Definitions
+8a5669905979c693691425c0f67b97582c14bc33 assets\blight\blockstates\hollowed_log.json
+d2b7194c587a8b4a864ea7b01e160846408ef180 assets\blight\models\block\hollowed_log.json
+9cc8ac0c2edf729519a80c1b237e1e647d39a0a1 assets\blight\models\item\hollowed_log.json
+d12193258b7ed18148ba9ecd8cd5183309d0095e assets\blight\models\item\chestnut_sapling.json
+6f98f74782bb3da478d89a64280f4e3c160aa656 assets\blight\models\block\chestnut_sapling.json
+dcbd831ecf5824eea2bbd64c2292d5d049b6c312 assets\blight\blockstates\chestnut_sapling.json
+30fd9df0bf7e3506024dd7d99c48e00176655237 assets\blight\models\item\ruby.json

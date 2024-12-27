@@ -1,0 +1,8 @@
+// 1.20.1	2024-12-27T00:31:57.8892093	Tutorial Mod/World Gen
+6e1460213f32246edd8214b6a441d7dc69b283af data\blight\worldgen\placed_feature\end_ruby_ore_placed.json
+7681c37153b3aee90509ee31bf444f6d5865ffa8 data\blight\worldgen\placed_feature\nether_ruby_ore_placed.json
+4bf3c1c1345e5f0cdd87884cf4d6761e1a63bf2b data\blight\worldgen\placed_feature\ruby_ore_placed.json
+4abe2f01fcdff68c3ddeeb93cc604cba54ce606a data\blight\worldgen\configured_feature\nether_ruby_ore.json
+2618b58cf2f82b6956b624b33ca171b3aea6d468 data\blight\worldgen\configured_feature\chestnut.json
+2f4f9888c667916ea0a66629297af6b8e991fcaf data\blight\worldgen\configured_feature\end_ruby_ore.json
+28cbd042614709c216cc0512d89849b1ffcb09a1 data\blight\worldgen\configured_feature\ruby_ore.json
